@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Son</h1>
 <h3 align="center">🚀 Software Engineering Student from Vietnam 🇻🇳</h3>
 
-## 🌌 About Me
+<p align="center">🌌 About Me</p> 
 <p align="center">
   🎓 I'm learning <b>Software Engineering</b><br>
   💻 Focus on <b>C#, .NET, Web Development</b><br>
@@ -18,7 +18,7 @@
   <a href="https://www.instagram.com/p_t_sonw/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-### 🛠 Technologies and Tools
+<p align="center">🛠 Technologies and Tools</p> 
 <p align="center">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-### 🔥 My GitHub Status 
+<p align="center">🔥 My GitHub Status 🔥</p> 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PtSon2204&show_icons=true&theme=radical&hide_border=true" alt="Son's GitHub Stats">
 </p>
