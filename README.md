@@ -1,3 +1,5 @@
+![Banner](https://canva.link/6bmilzip75cp9on)
+
 <h1 align="center">Hi 👋, I'm Son</h1>
 <h3 align="center">🚀 Software Engineering Student from Vietnam 🇻🇳</h3>
 
