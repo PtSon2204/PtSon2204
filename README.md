@@ -5,7 +5,9 @@
 <h1 align="center">Hi 👋, I'm Son</h1>
 <h3 align="center">🚀 Software Engineering Student from Vietnam 🇻🇳</h3>
 
-<p align="center">🌌 About Me</p> 
+<hr>
+
+<h2 align="center">🌌 About Me</h2> 
 <p align="center">
   🎓 I'm learning <b>Software Engineering</b><br>
   💻 Focus on <b>C#, .NET, Web Development</b><br>
@@ -18,7 +20,9 @@
   <a href="https://www.instagram.com/p_t_sonw/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-<p align="center">🛠 Technologies and Tools</p> 
+<hr>
+
+<h2 align="center">🛠 Technologies and Tools</h2> 
 <p align="center">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
@@ -29,11 +33,17 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-<p align="center">🔥 My GitHub Status 🔥</p> 
+<hr>
+
+<h2 align="center">🔥 My GitHub Status 🔥</h2> 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PtSon2204&show_icons=true&theme=radical&hide_border=true" alt="Son's GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PtSon2204&theme=radical&hide_border=true" alt="Son's GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PtSon2204&theme=radical&hide_border=true" alt="Son's GitHub Streak">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PtSon2204/PtSon2204/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PtSon2204/PtSon2204/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PtSon2204/PtSon2204/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
